@@ -1,5 +1,6 @@
 # DevirtualizeMe
-Reverse Engineering Challenge ... originally created for naci's tool [Mergen](https://github.com/NaC-L/Mergen)
+Reverse Engineering Challenge ... originally created for naci's tool [Mergen](https://github.com/NaC-L/Mergen).
+
 This tests your abilities against obfuscation through virtualization of code.
 
 # Notes
